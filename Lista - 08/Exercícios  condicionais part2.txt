@@ -3,15 +3,15 @@ Lista de Exercícios - Linguagem C# - Condicionais
 
 
 1 - Qual o propósito do operador &&? Exemplifique
-
+O operador && é um operador booleano que retorna true apenas se duas ou mais condições lógicas forem true.
 
 
 2 - Qual o propósito do operador ||? Exemplifique
-
+O operador || é o operador booleano que tem o propósito de combinar duas ou mais condições lógicas, retornando true se pelo menos uma das condições for true.
 
 
 3 - Qual o propósito do operador ! ? Exemplifique
-
+O operador ! que inverte o valor booleano de uma expressão, transformando true em false e false em true.
 
 
 4 - Crie um software que receba 4 notas de um aluno, calcule a média e exiba na tela:
