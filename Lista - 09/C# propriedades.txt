@@ -3,15 +3,16 @@ Lista de Exercícios - Linguagem C# - Classes, Métodos e Propriedades
 
 
 1 - Qual a propósito de uma classe?
-
+A classe é uma forma de representar e encapsular dados(Atributos) e comportamentos(Métodos).
 
 
 2 - Qual o propósito dos modificadores de acesso?
-
+O propósito dos modificadores de acesso é controlar a visibilidade e a acessibilidade de classes, métodos e propriedades.
 
 
 3 - Cite 2 modificadores de acesso e explique seus comportamentos
-
+Public > É acessivel por qualquer lugar.
+Private > Será apenas acessivel dentro da própria classe.
 
 
 4 - Crie um software que utilize 2 classes: Macaco e Banana
