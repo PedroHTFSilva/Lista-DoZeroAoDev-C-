@@ -1,0 +1,37 @@
+Lista de Exercícios - Linguagem C# - Pilha e Fila
+
+
+
+Exercício 1 - Utilizando Pilha, empilhe a frase (letra a letra): "Do Zero ao Dev", dê 2 pops e empilhe "2022", e exiba o resultado desempilhando.
+
+
+
+Exercício 2 - Implemente a estrutura de dados Pilha utilizando outra coleção que não seja vetor.
+
+
+
+Exercício 3 - Implemente a estrutura de dados Fila utilizando outra coleção que não seja vetor.
+
+
+
+Exercício 4 - Crie uma calculadora que suporte as 4 operações básicas (Adição, Subtração, Multiplicação e Divisão) e também suporte parênteses  e letras.
+
+As letras não podem se repetir na expressão e devem ser substituídas por números que o usuário inserir.
+
+
+
+Exemplo:
+
+
+
+Insira a expressão matemática: (A + B) + C
+
+Insira o valor de A: 10
+
+Insira o valor de B: 5
+
+Insira o valor de C: 8
+
+
+
+Resultado: 23
