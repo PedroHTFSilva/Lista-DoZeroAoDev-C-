@@ -27,7 +27,8 @@
             aluno.CalcularSituacao(calculo);
             alunos.Add(aluno);
         }
-
+  
+  
         Console.WriteLine("\nTodos os alunos foram processados!");
         Console.ReadLine();
     }
