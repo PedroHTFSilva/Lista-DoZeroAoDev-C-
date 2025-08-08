@@ -1,0 +1,14 @@
+C:\Users\DESKTOP JESUS\Desktop\DO ZERO AO DEV -\Lista-DoZeroAoDevC#\Lista - 10\Exercicio 5\GestaoPetShop\GestaoPetShop\bin\Debug\net8.0\GestaoPetShop.exe
+C:\Users\DESKTOP JESUS\Desktop\DO ZERO AO DEV -\Lista-DoZeroAoDevC#\Lista - 10\Exercicio 5\GestaoPetShop\GestaoPetShop\bin\Debug\net8.0\GestaoPetShop.deps.json
+C:\Users\DESKTOP JESUS\Desktop\DO ZERO AO DEV -\Lista-DoZeroAoDevC#\Lista - 10\Exercicio 5\GestaoPetShop\GestaoPetShop\bin\Debug\net8.0\GestaoPetShop.runtimeconfig.json
+C:\Users\DESKTOP JESUS\Desktop\DO ZERO AO DEV -\Lista-DoZeroAoDevC#\Lista - 10\Exercicio 5\GestaoPetShop\GestaoPetShop\bin\Debug\net8.0\GestaoPetShop.dll
+C:\Users\DESKTOP JESUS\Desktop\DO ZERO AO DEV -\Lista-DoZeroAoDevC#\Lista - 10\Exercicio 5\GestaoPetShop\GestaoPetShop\bin\Debug\net8.0\GestaoPetShop.pdb
+C:\Users\DESKTOP JESUS\Desktop\DO ZERO AO DEV -\Lista-DoZeroAoDevC#\Lista - 10\Exercicio 5\GestaoPetShop\GestaoPetShop\obj\Debug\net8.0\GestaoPetShop.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DESKTOP JESUS\Desktop\DO ZERO AO DEV -\Lista-DoZeroAoDevC#\Lista - 10\Exercicio 5\GestaoPetShop\GestaoPetShop\obj\Debug\net8.0\GestaoPetShop.AssemblyInfoInputs.cache
+C:\Users\DESKTOP JESUS\Desktop\DO ZERO AO DEV -\Lista-DoZeroAoDevC#\Lista - 10\Exercicio 5\GestaoPetShop\GestaoPetShop\obj\Debug\net8.0\GestaoPetShop.AssemblyInfo.cs
+C:\Users\DESKTOP JESUS\Desktop\DO ZERO AO DEV -\Lista-DoZeroAoDevC#\Lista - 10\Exercicio 5\GestaoPetShop\GestaoPetShop\obj\Debug\net8.0\GestaoPetShop.csproj.CoreCompileInputs.cache
+C:\Users\DESKTOP JESUS\Desktop\DO ZERO AO DEV -\Lista-DoZeroAoDevC#\Lista - 10\Exercicio 5\GestaoPetShop\GestaoPetShop\obj\Debug\net8.0\GestaoPetShop.dll
+C:\Users\DESKTOP JESUS\Desktop\DO ZERO AO DEV -\Lista-DoZeroAoDevC#\Lista - 10\Exercicio 5\GestaoPetShop\GestaoPetShop\obj\Debug\net8.0\refint\GestaoPetShop.dll
+C:\Users\DESKTOP JESUS\Desktop\DO ZERO AO DEV -\Lista-DoZeroAoDevC#\Lista - 10\Exercicio 5\GestaoPetShop\GestaoPetShop\obj\Debug\net8.0\GestaoPetShop.pdb
+C:\Users\DESKTOP JESUS\Desktop\DO ZERO AO DEV -\Lista-DoZeroAoDevC#\Lista - 10\Exercicio 5\GestaoPetShop\GestaoPetShop\obj\Debug\net8.0\GestaoPetShop.genruntimeconfig.cache
+C:\Users\DESKTOP JESUS\Desktop\DO ZERO AO DEV -\Lista-DoZeroAoDevC#\Lista - 10\Exercicio 5\GestaoPetShop\GestaoPetShop\obj\Debug\net8.0\ref\GestaoPetShop.dll

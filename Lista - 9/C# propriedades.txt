@@ -1,0 +1,41 @@
+Lista de Exercícios - Linguagem C# - Classes, Métodos e Propriedades
+
+
+
+1 - Qual a propósito de uma classe?
+
+
+
+2 - Qual o propósito dos modificadores de acesso?
+
+
+
+3 - Cite 2 modificadores de acesso e explique seus comportamentos
+
+
+
+4 - Crie um software que utilize 2 classes: Macaco e Banana
+
+
+
+Na main, instancie 2 variáveis (1 para cada classe) e construa um método na classe Macaco que permita passar a instancia da classe banana como parâmetro
+
+
+
+5 - Crie 3 classes: Leao, Zebra e Grama.
+
+
+
+Crie 1 método em cada classe, de forma que seja possível receber como parâmetro uma variável do tipo de alguma outra classe criada. Os métodos precisam ser públicos
+
+
+
+6 - Crie um software que possua 2 classes, e dentro delas existam 2 métodos em cada uma, 1 método privado e 1 método publico
+
+
+
+7 - Crie um software para gestão escolar, nele você precisa ter a capacidade de armazenar os dados de um aluno (nome, idade, endereço, notas, etc) e também calcular a média do aluno e dizer se ele foi aprovado ou não.
+
+
+
+Obrigatório: fazer uso de Lista, Loops, Condicionais, Classes, Metodos e Propriedades

@@ -1,0 +1,14 @@
+C:\Users\DESKTOP JESUS\Desktop\DO ZERO AO DEV -\Lista-DoZeroAoDevC#\Lista - 11\Exercicio - 4\FilaSemVetor\FilaSemVetor\bin\Debug\net8.0\FilaSemVetor.exe
+C:\Users\DESKTOP JESUS\Desktop\DO ZERO AO DEV -\Lista-DoZeroAoDevC#\Lista - 11\Exercicio - 4\FilaSemVetor\FilaSemVetor\bin\Debug\net8.0\FilaSemVetor.deps.json
+C:\Users\DESKTOP JESUS\Desktop\DO ZERO AO DEV -\Lista-DoZeroAoDevC#\Lista - 11\Exercicio - 4\FilaSemVetor\FilaSemVetor\bin\Debug\net8.0\FilaSemVetor.runtimeconfig.json
+C:\Users\DESKTOP JESUS\Desktop\DO ZERO AO DEV -\Lista-DoZeroAoDevC#\Lista - 11\Exercicio - 4\FilaSemVetor\FilaSemVetor\bin\Debug\net8.0\FilaSemVetor.dll
+C:\Users\DESKTOP JESUS\Desktop\DO ZERO AO DEV -\Lista-DoZeroAoDevC#\Lista - 11\Exercicio - 4\FilaSemVetor\FilaSemVetor\bin\Debug\net8.0\FilaSemVetor.pdb
+C:\Users\DESKTOP JESUS\Desktop\DO ZERO AO DEV -\Lista-DoZeroAoDevC#\Lista - 11\Exercicio - 4\FilaSemVetor\FilaSemVetor\obj\Debug\net8.0\FilaSemVetor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DESKTOP JESUS\Desktop\DO ZERO AO DEV -\Lista-DoZeroAoDevC#\Lista - 11\Exercicio - 4\FilaSemVetor\FilaSemVetor\obj\Debug\net8.0\FilaSemVetor.AssemblyInfoInputs.cache
+C:\Users\DESKTOP JESUS\Desktop\DO ZERO AO DEV -\Lista-DoZeroAoDevC#\Lista - 11\Exercicio - 4\FilaSemVetor\FilaSemVetor\obj\Debug\net8.0\FilaSemVetor.AssemblyInfo.cs
+C:\Users\DESKTOP JESUS\Desktop\DO ZERO AO DEV -\Lista-DoZeroAoDevC#\Lista - 11\Exercicio - 4\FilaSemVetor\FilaSemVetor\obj\Debug\net8.0\FilaSemVetor.csproj.CoreCompileInputs.cache
+C:\Users\DESKTOP JESUS\Desktop\DO ZERO AO DEV -\Lista-DoZeroAoDevC#\Lista - 11\Exercicio - 4\FilaSemVetor\FilaSemVetor\obj\Debug\net8.0\FilaSemVetor.dll
+C:\Users\DESKTOP JESUS\Desktop\DO ZERO AO DEV -\Lista-DoZeroAoDevC#\Lista - 11\Exercicio - 4\FilaSemVetor\FilaSemVetor\obj\Debug\net8.0\refint\FilaSemVetor.dll
+C:\Users\DESKTOP JESUS\Desktop\DO ZERO AO DEV -\Lista-DoZeroAoDevC#\Lista - 11\Exercicio - 4\FilaSemVetor\FilaSemVetor\obj\Debug\net8.0\FilaSemVetor.pdb
+C:\Users\DESKTOP JESUS\Desktop\DO ZERO AO DEV -\Lista-DoZeroAoDevC#\Lista - 11\Exercicio - 4\FilaSemVetor\FilaSemVetor\obj\Debug\net8.0\FilaSemVetor.genruntimeconfig.cache
+C:\Users\DESKTOP JESUS\Desktop\DO ZERO AO DEV -\Lista-DoZeroAoDevC#\Lista - 11\Exercicio - 4\FilaSemVetor\FilaSemVetor\obj\Debug\net8.0\ref\FilaSemVetor.dll

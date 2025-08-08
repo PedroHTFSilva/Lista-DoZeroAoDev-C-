@@ -1,0 +1,42 @@
+C:\Users\psilva\Desktop\Projetos\DO ZERO AO DEV\Lista 7\Exercicio 1\bin\Debug\net6.0\Exercicio 1.exe
+C:\Users\psilva\Desktop\Projetos\DO ZERO AO DEV\Lista 7\Exercicio 1\bin\Debug\net6.0\Exercicio 1.deps.json
+C:\Users\psilva\Desktop\Projetos\DO ZERO AO DEV\Lista 7\Exercicio 1\bin\Debug\net6.0\Exercicio 1.runtimeconfig.json
+C:\Users\psilva\Desktop\Projetos\DO ZERO AO DEV\Lista 7\Exercicio 1\bin\Debug\net6.0\Exercicio 1.dll
+C:\Users\psilva\Desktop\Projetos\DO ZERO AO DEV\Lista 7\Exercicio 1\bin\Debug\net6.0\Exercicio 1.pdb
+C:\Users\psilva\Desktop\Projetos\DO ZERO AO DEV\Lista 7\Exercicio 1\obj\Debug\net6.0\Exercicio 1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\psilva\Desktop\Projetos\DO ZERO AO DEV\Lista 7\Exercicio 1\obj\Debug\net6.0\Exercicio 1.AssemblyInfoInputs.cache
+C:\Users\psilva\Desktop\Projetos\DO ZERO AO DEV\Lista 7\Exercicio 1\obj\Debug\net6.0\Exercicio 1.AssemblyInfo.cs
+C:\Users\psilva\Desktop\Projetos\DO ZERO AO DEV\Lista 7\Exercicio 1\obj\Debug\net6.0\Exercicio 1.csproj.CoreCompileInputs.cache
+C:\Users\psilva\Desktop\Projetos\DO ZERO AO DEV\Lista 7\Exercicio 1\obj\Debug\net6.0\Exercicio 1.dll
+C:\Users\psilva\Desktop\Projetos\DO ZERO AO DEV\Lista 7\Exercicio 1\obj\Debug\net6.0\refint\Exercicio 1.dll
+C:\Users\psilva\Desktop\Projetos\DO ZERO AO DEV\Lista 7\Exercicio 1\obj\Debug\net6.0\Exercicio 1.pdb
+C:\Users\psilva\Desktop\Projetos\DO ZERO AO DEV\Lista 7\Exercicio 1\obj\Debug\net6.0\Exercicio 1.genruntimeconfig.cache
+C:\Users\psilva\Desktop\Projetos\DO ZERO AO DEV\Lista 7\Exercicio 1\obj\Debug\net6.0\ref\Exercicio 1.dll
+C:\Users\Pedro Fontes\Desktop\DO ZERO AO DEV -\Lista-DoZeroAoDevC#\Lista - 7\Exercicio 1\bin\Debug\net6.0\Exercicio 1.exe
+C:\Users\Pedro Fontes\Desktop\DO ZERO AO DEV -\Lista-DoZeroAoDevC#\Lista - 7\Exercicio 1\bin\Debug\net6.0\Exercicio 1.deps.json
+C:\Users\Pedro Fontes\Desktop\DO ZERO AO DEV -\Lista-DoZeroAoDevC#\Lista - 7\Exercicio 1\bin\Debug\net6.0\Exercicio 1.runtimeconfig.json
+C:\Users\Pedro Fontes\Desktop\DO ZERO AO DEV -\Lista-DoZeroAoDevC#\Lista - 7\Exercicio 1\bin\Debug\net6.0\Exercicio 1.dll
+C:\Users\Pedro Fontes\Desktop\DO ZERO AO DEV -\Lista-DoZeroAoDevC#\Lista - 7\Exercicio 1\bin\Debug\net6.0\Exercicio 1.pdb
+C:\Users\Pedro Fontes\Desktop\DO ZERO AO DEV -\Lista-DoZeroAoDevC#\Lista - 7\Exercicio 1\obj\Debug\net6.0\Exercicio 1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Pedro Fontes\Desktop\DO ZERO AO DEV -\Lista-DoZeroAoDevC#\Lista - 7\Exercicio 1\obj\Debug\net6.0\Exercicio 1.AssemblyInfoInputs.cache
+C:\Users\Pedro Fontes\Desktop\DO ZERO AO DEV -\Lista-DoZeroAoDevC#\Lista - 7\Exercicio 1\obj\Debug\net6.0\Exercicio 1.AssemblyInfo.cs
+C:\Users\Pedro Fontes\Desktop\DO ZERO AO DEV -\Lista-DoZeroAoDevC#\Lista - 7\Exercicio 1\obj\Debug\net6.0\Exercicio 1.csproj.CoreCompileInputs.cache
+C:\Users\Pedro Fontes\Desktop\DO ZERO AO DEV -\Lista-DoZeroAoDevC#\Lista - 7\Exercicio 1\obj\Debug\net6.0\Exercicio 1.dll
+C:\Users\Pedro Fontes\Desktop\DO ZERO AO DEV -\Lista-DoZeroAoDevC#\Lista - 7\Exercicio 1\obj\Debug\net6.0\refint\Exercicio 1.dll
+C:\Users\Pedro Fontes\Desktop\DO ZERO AO DEV -\Lista-DoZeroAoDevC#\Lista - 7\Exercicio 1\obj\Debug\net6.0\Exercicio 1.pdb
+C:\Users\Pedro Fontes\Desktop\DO ZERO AO DEV -\Lista-DoZeroAoDevC#\Lista - 7\Exercicio 1\obj\Debug\net6.0\Exercicio 1.genruntimeconfig.cache
+C:\Users\Pedro Fontes\Desktop\DO ZERO AO DEV -\Lista-DoZeroAoDevC#\Lista - 7\Exercicio 1\obj\Debug\net6.0\ref\Exercicio 1.dll
+c:\Users\DESKTOP JESUS\Desktop\DO ZERO AO DEV -\Lista-DoZeroAoDevC#\Lista - 7\Exercicio 1\bin\Debug\net6.0\Exercicio 1.exe
+C:\Users\DESKTOP JESUS\Desktop\DO ZERO AO DEV -\Lista-DoZeroAoDevC#\Lista - 7\Exercicio 1\bin\Debug\net6.0\Exercicio 1.deps.json
+C:\Users\DESKTOP JESUS\Desktop\DO ZERO AO DEV -\Lista-DoZeroAoDevC#\Lista - 7\Exercicio 1\bin\Debug\net6.0\Exercicio 1.runtimeconfig.json
+c:\Users\DESKTOP JESUS\Desktop\DO ZERO AO DEV -\Lista-DoZeroAoDevC#\Lista - 7\Exercicio 1\bin\Debug\net6.0\Exercicio 1.dll
+c:\Users\DESKTOP JESUS\Desktop\DO ZERO AO DEV -\Lista-DoZeroAoDevC#\Lista - 7\Exercicio 1\bin\Debug\net6.0\Exercicio 1.pdb
+c:\Users\DESKTOP JESUS\Desktop\DO ZERO AO DEV -\Lista-DoZeroAoDevC#\Lista - 7\Exercicio 1\obj\Debug\net6.0\Exercicio 1.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\DESKTOP JESUS\Desktop\DO ZERO AO DEV -\Lista-DoZeroAoDevC#\Lista - 7\Exercicio 1\obj\Debug\net6.0\Exercicio 1.AssemblyInfoInputs.cache
+c:\Users\DESKTOP JESUS\Desktop\DO ZERO AO DEV -\Lista-DoZeroAoDevC#\Lista - 7\Exercicio 1\obj\Debug\net6.0\Exercicio 1.AssemblyInfo.cs
+c:\Users\DESKTOP JESUS\Desktop\DO ZERO AO DEV -\Lista-DoZeroAoDevC#\Lista - 7\Exercicio 1\obj\Debug\net6.0\Exercicio 1.csproj.CoreCompileInputs.cache
+c:\Users\DESKTOP JESUS\Desktop\DO ZERO AO DEV -\Lista-DoZeroAoDevC#\Lista - 7\Exercicio 1\obj\Debug\net6.0\Exercicio 1.dll
+c:\Users\DESKTOP JESUS\Desktop\DO ZERO AO DEV -\Lista-DoZeroAoDevC#\Lista - 7\Exercicio 1\obj\Debug\net6.0\refint\Exercicio 1.dll
+c:\Users\DESKTOP JESUS\Desktop\DO ZERO AO DEV -\Lista-DoZeroAoDevC#\Lista - 7\Exercicio 1\obj\Debug\net6.0\Exercicio 1.pdb
+C:\Users\DESKTOP JESUS\Desktop\DO ZERO AO DEV -\Lista-DoZeroAoDevC#\Lista - 7\Exercicio 1\obj\Debug\net6.0\Exercicio 1.genruntimeconfig.cache
+C:\Users\DESKTOP JESUS\Desktop\DO ZERO AO DEV -\Lista-DoZeroAoDevC#\Lista - 7\Exercicio 1\obj\Debug\net6.0\ref\Exercicio 1.dll

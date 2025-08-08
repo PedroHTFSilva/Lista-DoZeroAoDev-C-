@@ -1,0 +1,14 @@
+C:\Users\DESKTOP JESUS\Desktop\DO ZERO AO DEV -\Lista-DoZeroAoDevC#\Lista 9\Exercicio 1\MacacoBanana\bin\Debug\net9.0\MacacoBanana.exe
+C:\Users\DESKTOP JESUS\Desktop\DO ZERO AO DEV -\Lista-DoZeroAoDevC#\Lista 9\Exercicio 1\MacacoBanana\bin\Debug\net9.0\MacacoBanana.deps.json
+C:\Users\DESKTOP JESUS\Desktop\DO ZERO AO DEV -\Lista-DoZeroAoDevC#\Lista 9\Exercicio 1\MacacoBanana\bin\Debug\net9.0\MacacoBanana.runtimeconfig.json
+C:\Users\DESKTOP JESUS\Desktop\DO ZERO AO DEV -\Lista-DoZeroAoDevC#\Lista 9\Exercicio 1\MacacoBanana\bin\Debug\net9.0\MacacoBanana.dll
+C:\Users\DESKTOP JESUS\Desktop\DO ZERO AO DEV -\Lista-DoZeroAoDevC#\Lista 9\Exercicio 1\MacacoBanana\bin\Debug\net9.0\MacacoBanana.pdb
+C:\Users\DESKTOP JESUS\Desktop\DO ZERO AO DEV -\Lista-DoZeroAoDevC#\Lista 9\Exercicio 1\MacacoBanana\obj\Debug\net9.0\MacacoBanana.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DESKTOP JESUS\Desktop\DO ZERO AO DEV -\Lista-DoZeroAoDevC#\Lista 9\Exercicio 1\MacacoBanana\obj\Debug\net9.0\MacacoBanana.AssemblyInfoInputs.cache
+C:\Users\DESKTOP JESUS\Desktop\DO ZERO AO DEV -\Lista-DoZeroAoDevC#\Lista 9\Exercicio 1\MacacoBanana\obj\Debug\net9.0\MacacoBanana.AssemblyInfo.cs
+C:\Users\DESKTOP JESUS\Desktop\DO ZERO AO DEV -\Lista-DoZeroAoDevC#\Lista 9\Exercicio 1\MacacoBanana\obj\Debug\net9.0\MacacoBanana.csproj.CoreCompileInputs.cache
+C:\Users\DESKTOP JESUS\Desktop\DO ZERO AO DEV -\Lista-DoZeroAoDevC#\Lista 9\Exercicio 1\MacacoBanana\obj\Debug\net9.0\MacacoBanana.dll
+C:\Users\DESKTOP JESUS\Desktop\DO ZERO AO DEV -\Lista-DoZeroAoDevC#\Lista 9\Exercicio 1\MacacoBanana\obj\Debug\net9.0\refint\MacacoBanana.dll
+C:\Users\DESKTOP JESUS\Desktop\DO ZERO AO DEV -\Lista-DoZeroAoDevC#\Lista 9\Exercicio 1\MacacoBanana\obj\Debug\net9.0\MacacoBanana.pdb
+C:\Users\DESKTOP JESUS\Desktop\DO ZERO AO DEV -\Lista-DoZeroAoDevC#\Lista 9\Exercicio 1\MacacoBanana\obj\Debug\net9.0\MacacoBanana.genruntimeconfig.cache
+C:\Users\DESKTOP JESUS\Desktop\DO ZERO AO DEV -\Lista-DoZeroAoDevC#\Lista 9\Exercicio 1\MacacoBanana\obj\Debug\net9.0\ref\MacacoBanana.dll

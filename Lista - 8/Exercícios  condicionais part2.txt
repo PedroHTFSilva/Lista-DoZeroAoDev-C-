@@ -1,0 +1,47 @@
+Lista de Exercícios - Linguagem C# - Condicionais
+
+
+
+1 - Qual o propósito do operador &&? Exemplifique
+
+
+
+2 - Qual o propósito do operador ||? Exemplifique
+
+
+
+3 - Qual o propósito do operador ! ? Exemplifique
+
+
+
+4 - Crie um software que receba 4 notas de um aluno, calcule a média e exiba na tela:
+
+
+
+   media >= 9: Aprovado com Sucesso
+
+   media >= 5: Aprovado
+
+   media < 5: Reprovado
+
+
+
+5 - Crie um software que receba 4 números e identifique qual é o maior (utilizar múltiplos operadores lógicos)
+
+
+
+6 - Crie um software que receba o nome, gênero, idade e 4 notas de um aluno, calcule a media e exiba:
+
+
+
+- Se a idade do aluno for menor que 10 anos e a nota for maior ou igual a 4: Aprovado
+
+- Se a idade do aluno for maior que 10 anos e a nota for maior ou igual a 7: aprovado
+
+- Se a idade do aluno for menor que 10 anos e a nota for menor que 4: Reprovado
+
+- Se a idade do aluno for maior que 10 anos e a nota for menor que 7: Reprovado
+
+
+
+7 - Crie um software que utilize uma lógica de negócio que faça uso dos operadores: &&, || e !

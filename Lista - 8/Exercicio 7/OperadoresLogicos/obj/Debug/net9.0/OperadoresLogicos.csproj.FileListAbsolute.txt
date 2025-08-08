@@ -1,0 +1,14 @@
+C:\Users\DESKTOP JESUS\Desktop\DO ZERO AO DEV -\Lista-DoZeroAoDevC#\Lista - 8\Exercicio 7\OperadoresLogicos\bin\Debug\net9.0\OperadoresLogicos.exe
+C:\Users\DESKTOP JESUS\Desktop\DO ZERO AO DEV -\Lista-DoZeroAoDevC#\Lista - 8\Exercicio 7\OperadoresLogicos\bin\Debug\net9.0\OperadoresLogicos.deps.json
+C:\Users\DESKTOP JESUS\Desktop\DO ZERO AO DEV -\Lista-DoZeroAoDevC#\Lista - 8\Exercicio 7\OperadoresLogicos\bin\Debug\net9.0\OperadoresLogicos.runtimeconfig.json
+C:\Users\DESKTOP JESUS\Desktop\DO ZERO AO DEV -\Lista-DoZeroAoDevC#\Lista - 8\Exercicio 7\OperadoresLogicos\bin\Debug\net9.0\OperadoresLogicos.dll
+C:\Users\DESKTOP JESUS\Desktop\DO ZERO AO DEV -\Lista-DoZeroAoDevC#\Lista - 8\Exercicio 7\OperadoresLogicos\bin\Debug\net9.0\OperadoresLogicos.pdb
+C:\Users\DESKTOP JESUS\Desktop\DO ZERO AO DEV -\Lista-DoZeroAoDevC#\Lista - 8\Exercicio 7\OperadoresLogicos\obj\Debug\net9.0\OperadoresLogicos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DESKTOP JESUS\Desktop\DO ZERO AO DEV -\Lista-DoZeroAoDevC#\Lista - 8\Exercicio 7\OperadoresLogicos\obj\Debug\net9.0\OperadoresLogicos.AssemblyInfoInputs.cache
+C:\Users\DESKTOP JESUS\Desktop\DO ZERO AO DEV -\Lista-DoZeroAoDevC#\Lista - 8\Exercicio 7\OperadoresLogicos\obj\Debug\net9.0\OperadoresLogicos.AssemblyInfo.cs
+C:\Users\DESKTOP JESUS\Desktop\DO ZERO AO DEV -\Lista-DoZeroAoDevC#\Lista - 8\Exercicio 7\OperadoresLogicos\obj\Debug\net9.0\OperadoresLogicos.csproj.CoreCompileInputs.cache
+C:\Users\DESKTOP JESUS\Desktop\DO ZERO AO DEV -\Lista-DoZeroAoDevC#\Lista - 8\Exercicio 7\OperadoresLogicos\obj\Debug\net9.0\OperadoresLogicos.dll
+C:\Users\DESKTOP JESUS\Desktop\DO ZERO AO DEV -\Lista-DoZeroAoDevC#\Lista - 8\Exercicio 7\OperadoresLogicos\obj\Debug\net9.0\refint\OperadoresLogicos.dll
+C:\Users\DESKTOP JESUS\Desktop\DO ZERO AO DEV -\Lista-DoZeroAoDevC#\Lista - 8\Exercicio 7\OperadoresLogicos\obj\Debug\net9.0\OperadoresLogicos.pdb
+C:\Users\DESKTOP JESUS\Desktop\DO ZERO AO DEV -\Lista-DoZeroAoDevC#\Lista - 8\Exercicio 7\OperadoresLogicos\obj\Debug\net9.0\OperadoresLogicos.genruntimeconfig.cache
+C:\Users\DESKTOP JESUS\Desktop\DO ZERO AO DEV -\Lista-DoZeroAoDevC#\Lista - 8\Exercicio 7\OperadoresLogicos\obj\Debug\net9.0\ref\OperadoresLogicos.dll

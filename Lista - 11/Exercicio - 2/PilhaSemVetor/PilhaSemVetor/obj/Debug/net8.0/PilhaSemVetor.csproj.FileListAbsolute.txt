@@ -1,0 +1,14 @@
+C:\Users\DESKTOP JESUS\Desktop\DO ZERO AO DEV -\Lista-DoZeroAoDevC#\Lista - 11\Exercicio - 1\PilhaSemVetor\PilhaSemVetor\bin\Debug\net8.0\PilhaSemVetor.exe
+C:\Users\DESKTOP JESUS\Desktop\DO ZERO AO DEV -\Lista-DoZeroAoDevC#\Lista - 11\Exercicio - 1\PilhaSemVetor\PilhaSemVetor\bin\Debug\net8.0\PilhaSemVetor.deps.json
+C:\Users\DESKTOP JESUS\Desktop\DO ZERO AO DEV -\Lista-DoZeroAoDevC#\Lista - 11\Exercicio - 1\PilhaSemVetor\PilhaSemVetor\bin\Debug\net8.0\PilhaSemVetor.runtimeconfig.json
+C:\Users\DESKTOP JESUS\Desktop\DO ZERO AO DEV -\Lista-DoZeroAoDevC#\Lista - 11\Exercicio - 1\PilhaSemVetor\PilhaSemVetor\bin\Debug\net8.0\PilhaSemVetor.dll
+C:\Users\DESKTOP JESUS\Desktop\DO ZERO AO DEV -\Lista-DoZeroAoDevC#\Lista - 11\Exercicio - 1\PilhaSemVetor\PilhaSemVetor\bin\Debug\net8.0\PilhaSemVetor.pdb
+C:\Users\DESKTOP JESUS\Desktop\DO ZERO AO DEV -\Lista-DoZeroAoDevC#\Lista - 11\Exercicio - 1\PilhaSemVetor\PilhaSemVetor\obj\Debug\net8.0\PilhaSemVetor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DESKTOP JESUS\Desktop\DO ZERO AO DEV -\Lista-DoZeroAoDevC#\Lista - 11\Exercicio - 1\PilhaSemVetor\PilhaSemVetor\obj\Debug\net8.0\PilhaSemVetor.AssemblyInfoInputs.cache
+C:\Users\DESKTOP JESUS\Desktop\DO ZERO AO DEV -\Lista-DoZeroAoDevC#\Lista - 11\Exercicio - 1\PilhaSemVetor\PilhaSemVetor\obj\Debug\net8.0\PilhaSemVetor.AssemblyInfo.cs
+C:\Users\DESKTOP JESUS\Desktop\DO ZERO AO DEV -\Lista-DoZeroAoDevC#\Lista - 11\Exercicio - 1\PilhaSemVetor\PilhaSemVetor\obj\Debug\net8.0\PilhaSemVetor.csproj.CoreCompileInputs.cache
+C:\Users\DESKTOP JESUS\Desktop\DO ZERO AO DEV -\Lista-DoZeroAoDevC#\Lista - 11\Exercicio - 1\PilhaSemVetor\PilhaSemVetor\obj\Debug\net8.0\PilhaSemVetor.dll
+C:\Users\DESKTOP JESUS\Desktop\DO ZERO AO DEV -\Lista-DoZeroAoDevC#\Lista - 11\Exercicio - 1\PilhaSemVetor\PilhaSemVetor\obj\Debug\net8.0\refint\PilhaSemVetor.dll
+C:\Users\DESKTOP JESUS\Desktop\DO ZERO AO DEV -\Lista-DoZeroAoDevC#\Lista - 11\Exercicio - 1\PilhaSemVetor\PilhaSemVetor\obj\Debug\net8.0\PilhaSemVetor.pdb
+C:\Users\DESKTOP JESUS\Desktop\DO ZERO AO DEV -\Lista-DoZeroAoDevC#\Lista - 11\Exercicio - 1\PilhaSemVetor\PilhaSemVetor\obj\Debug\net8.0\PilhaSemVetor.genruntimeconfig.cache
+C:\Users\DESKTOP JESUS\Desktop\DO ZERO AO DEV -\Lista-DoZeroAoDevC#\Lista - 11\Exercicio - 1\PilhaSemVetor\PilhaSemVetor\obj\Debug\net8.0\ref\PilhaSemVetor.dll

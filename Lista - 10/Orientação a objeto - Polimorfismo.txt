@@ -1,0 +1,56 @@
+Lista de Exercícios - Linguagem C# - Herança, Interface e Polimorfismo
+
+
+1. Crie um software que tenha dois tipos de alunos: Aluno comum e Aluno com bolsa. Receba as informações básicas de um cadastro para quatro alunos (nome, idade, etc), receba quatro notas para cada aluno, calcule sua média e exiba na tela de acordo a seguinte regra.
+
+Regra: alunos com bolsa possuem a média mínima 6 para aprovação e alunos comuns possuem a média mínima para aprovação 7. 
+
+
+
+Exercício 2 - Crie uma calculadora que possua as quatro operações matemáticas básicas. Faça uso de classes, métodos e herança.
+
+
+
+Exercício 3 - Crie um sistema de gestão de estoque, esse sistema deverá permitir: Cadastro e listagem de pessoas, cadastro e listagem de produtos e cadastro e listagem de vendas. 
+
+Requisitos: 
+
+- 3 produtos diferentes
+
+- 2 tipos de usuários diferentes
+
+Sugestão: utilizar listas, classes, métodos, propriedades, herança e interface.
+
+
+
+Exercício 4 - Crie um sistema para gestão de locadora. O sistema deve oferecer as seguintes funcionalidades:
+
+- Cadastro e listagem de Filmes
+
+- Cadastro e listagem de Clientes
+
+- Cadastro e listagem de Aluguel
+
+- Cadastro e listagem de Devolução
+
+
+
+Existirão 2 tipos de clientes, o cliente comum (alugou menos de 10 filmes e pagará o preço normal) e o cliente premium (já alugou mais de 10 filmes e ganha 10% de desconto no aluguel do filme)
+
+
+
+Deverá ser calculado o desconto no momento do cadastro do aluguel
+
+
+
+Exercício 5 - Crie um sistema para gestão de um Pet Shop. O sistema deverá dar suporte para:
+
+ cadastro e listagem de animais pequenos (aves e mamíferos)
+
+ cadastro e listagem de produtos (deverá ser especificado para qual animal ou tipo de animal é indicado o produto)
+
+ cadastro e listagem de atendimentos veterinários
+
+ cadastro e listagem de médicos veterinários
+
+ cadastro e listagem de vendas de produtos

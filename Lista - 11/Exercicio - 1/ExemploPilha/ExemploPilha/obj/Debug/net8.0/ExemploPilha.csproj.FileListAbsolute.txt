@@ -1,0 +1,14 @@
+C:\Users\DESKTOP JESUS\Desktop\DO ZERO AO DEV -\Lista-DoZeroAoDevC#\Lista - 11\Exercicio - 1\ExemploPilha\ExemploPilha\bin\Debug\net8.0\ExemploPilha.exe
+C:\Users\DESKTOP JESUS\Desktop\DO ZERO AO DEV -\Lista-DoZeroAoDevC#\Lista - 11\Exercicio - 1\ExemploPilha\ExemploPilha\bin\Debug\net8.0\ExemploPilha.deps.json
+C:\Users\DESKTOP JESUS\Desktop\DO ZERO AO DEV -\Lista-DoZeroAoDevC#\Lista - 11\Exercicio - 1\ExemploPilha\ExemploPilha\bin\Debug\net8.0\ExemploPilha.runtimeconfig.json
+C:\Users\DESKTOP JESUS\Desktop\DO ZERO AO DEV -\Lista-DoZeroAoDevC#\Lista - 11\Exercicio - 1\ExemploPilha\ExemploPilha\bin\Debug\net8.0\ExemploPilha.dll
+C:\Users\DESKTOP JESUS\Desktop\DO ZERO AO DEV -\Lista-DoZeroAoDevC#\Lista - 11\Exercicio - 1\ExemploPilha\ExemploPilha\bin\Debug\net8.0\ExemploPilha.pdb
+C:\Users\DESKTOP JESUS\Desktop\DO ZERO AO DEV -\Lista-DoZeroAoDevC#\Lista - 11\Exercicio - 1\ExemploPilha\ExemploPilha\obj\Debug\net8.0\ExemploPilha.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DESKTOP JESUS\Desktop\DO ZERO AO DEV -\Lista-DoZeroAoDevC#\Lista - 11\Exercicio - 1\ExemploPilha\ExemploPilha\obj\Debug\net8.0\ExemploPilha.AssemblyInfoInputs.cache
+C:\Users\DESKTOP JESUS\Desktop\DO ZERO AO DEV -\Lista-DoZeroAoDevC#\Lista - 11\Exercicio - 1\ExemploPilha\ExemploPilha\obj\Debug\net8.0\ExemploPilha.AssemblyInfo.cs
+C:\Users\DESKTOP JESUS\Desktop\DO ZERO AO DEV -\Lista-DoZeroAoDevC#\Lista - 11\Exercicio - 1\ExemploPilha\ExemploPilha\obj\Debug\net8.0\ExemploPilha.csproj.CoreCompileInputs.cache
+C:\Users\DESKTOP JESUS\Desktop\DO ZERO AO DEV -\Lista-DoZeroAoDevC#\Lista - 11\Exercicio - 1\ExemploPilha\ExemploPilha\obj\Debug\net8.0\ExemploPilha.dll
+C:\Users\DESKTOP JESUS\Desktop\DO ZERO AO DEV -\Lista-DoZeroAoDevC#\Lista - 11\Exercicio - 1\ExemploPilha\ExemploPilha\obj\Debug\net8.0\refint\ExemploPilha.dll
+C:\Users\DESKTOP JESUS\Desktop\DO ZERO AO DEV -\Lista-DoZeroAoDevC#\Lista - 11\Exercicio - 1\ExemploPilha\ExemploPilha\obj\Debug\net8.0\ExemploPilha.pdb
+C:\Users\DESKTOP JESUS\Desktop\DO ZERO AO DEV -\Lista-DoZeroAoDevC#\Lista - 11\Exercicio - 1\ExemploPilha\ExemploPilha\obj\Debug\net8.0\ExemploPilha.genruntimeconfig.cache
+C:\Users\DESKTOP JESUS\Desktop\DO ZERO AO DEV -\Lista-DoZeroAoDevC#\Lista - 11\Exercicio - 1\ExemploPilha\ExemploPilha\obj\Debug\net8.0\ref\ExemploPilha.dll

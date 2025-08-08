@@ -1,0 +1,14 @@
+C:\Users\DESKTOP JESUS\source\repos\ProjetoAlunBolsa\ProjetoAlunBolsa\obj\Debug\net8.0\ProjetoAlunBolsa.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DESKTOP JESUS\source\repos\ProjetoAlunBolsa\ProjetoAlunBolsa\obj\Debug\net8.0\ProjetoAlunBolsa.AssemblyInfoInputs.cache
+C:\Users\DESKTOP JESUS\source\repos\ProjetoAlunBolsa\ProjetoAlunBolsa\obj\Debug\net8.0\ProjetoAlunBolsa.AssemblyInfo.cs
+C:\Users\DESKTOP JESUS\source\repos\ProjetoAlunBolsa\ProjetoAlunBolsa\obj\Debug\net8.0\ProjetoAlunBolsa.csproj.CoreCompileInputs.cache
+C:\Users\DESKTOP JESUS\source\repos\ProjetoAlunBolsa\ProjetoAlunBolsa\bin\Debug\net8.0\ProjetoAlunBolsa.exe
+C:\Users\DESKTOP JESUS\source\repos\ProjetoAlunBolsa\ProjetoAlunBolsa\bin\Debug\net8.0\ProjetoAlunBolsa.deps.json
+C:\Users\DESKTOP JESUS\source\repos\ProjetoAlunBolsa\ProjetoAlunBolsa\bin\Debug\net8.0\ProjetoAlunBolsa.runtimeconfig.json
+C:\Users\DESKTOP JESUS\source\repos\ProjetoAlunBolsa\ProjetoAlunBolsa\bin\Debug\net8.0\ProjetoAlunBolsa.dll
+C:\Users\DESKTOP JESUS\source\repos\ProjetoAlunBolsa\ProjetoAlunBolsa\bin\Debug\net8.0\ProjetoAlunBolsa.pdb
+C:\Users\DESKTOP JESUS\source\repos\ProjetoAlunBolsa\ProjetoAlunBolsa\obj\Debug\net8.0\ProjetoAlunBolsa.dll
+C:\Users\DESKTOP JESUS\source\repos\ProjetoAlunBolsa\ProjetoAlunBolsa\obj\Debug\net8.0\refint\ProjetoAlunBolsa.dll
+C:\Users\DESKTOP JESUS\source\repos\ProjetoAlunBolsa\ProjetoAlunBolsa\obj\Debug\net8.0\ProjetoAlunBolsa.pdb
+C:\Users\DESKTOP JESUS\source\repos\ProjetoAlunBolsa\ProjetoAlunBolsa\obj\Debug\net8.0\ProjetoAlunBolsa.genruntimeconfig.cache
+C:\Users\DESKTOP JESUS\source\repos\ProjetoAlunBolsa\ProjetoAlunBolsa\obj\Debug\net8.0\ref\ProjetoAlunBolsa.dll

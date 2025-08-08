@@ -1,0 +1,14 @@
+C:\Users\DESKTOP JESUS\Desktop\DO ZERO AO DEV -\Lista-DoZeroAoDevC#\Lista - 8\Exercicio 5\IndentificadordeMaior\bin\Debug\net9.0\IndentificadordeMaior.exe
+C:\Users\DESKTOP JESUS\Desktop\DO ZERO AO DEV -\Lista-DoZeroAoDevC#\Lista - 8\Exercicio 5\IndentificadordeMaior\bin\Debug\net9.0\IndentificadordeMaior.deps.json
+C:\Users\DESKTOP JESUS\Desktop\DO ZERO AO DEV -\Lista-DoZeroAoDevC#\Lista - 8\Exercicio 5\IndentificadordeMaior\bin\Debug\net9.0\IndentificadordeMaior.runtimeconfig.json
+C:\Users\DESKTOP JESUS\Desktop\DO ZERO AO DEV -\Lista-DoZeroAoDevC#\Lista - 8\Exercicio 5\IndentificadordeMaior\bin\Debug\net9.0\IndentificadordeMaior.dll
+C:\Users\DESKTOP JESUS\Desktop\DO ZERO AO DEV -\Lista-DoZeroAoDevC#\Lista - 8\Exercicio 5\IndentificadordeMaior\bin\Debug\net9.0\IndentificadordeMaior.pdb
+C:\Users\DESKTOP JESUS\Desktop\DO ZERO AO DEV -\Lista-DoZeroAoDevC#\Lista - 8\Exercicio 5\IndentificadordeMaior\obj\Debug\net9.0\IndentificadordeMaior.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DESKTOP JESUS\Desktop\DO ZERO AO DEV -\Lista-DoZeroAoDevC#\Lista - 8\Exercicio 5\IndentificadordeMaior\obj\Debug\net9.0\IndentificadordeMaior.AssemblyInfoInputs.cache
+C:\Users\DESKTOP JESUS\Desktop\DO ZERO AO DEV -\Lista-DoZeroAoDevC#\Lista - 8\Exercicio 5\IndentificadordeMaior\obj\Debug\net9.0\IndentificadordeMaior.AssemblyInfo.cs
+C:\Users\DESKTOP JESUS\Desktop\DO ZERO AO DEV -\Lista-DoZeroAoDevC#\Lista - 8\Exercicio 5\IndentificadordeMaior\obj\Debug\net9.0\IndentificadordeMaior.csproj.CoreCompileInputs.cache
+C:\Users\DESKTOP JESUS\Desktop\DO ZERO AO DEV -\Lista-DoZeroAoDevC#\Lista - 8\Exercicio 5\IndentificadordeMaior\obj\Debug\net9.0\IndentificadordeMaior.dll
+C:\Users\DESKTOP JESUS\Desktop\DO ZERO AO DEV -\Lista-DoZeroAoDevC#\Lista - 8\Exercicio 5\IndentificadordeMaior\obj\Debug\net9.0\refint\IndentificadordeMaior.dll
+C:\Users\DESKTOP JESUS\Desktop\DO ZERO AO DEV -\Lista-DoZeroAoDevC#\Lista - 8\Exercicio 5\IndentificadordeMaior\obj\Debug\net9.0\IndentificadordeMaior.pdb
+C:\Users\DESKTOP JESUS\Desktop\DO ZERO AO DEV -\Lista-DoZeroAoDevC#\Lista - 8\Exercicio 5\IndentificadordeMaior\obj\Debug\net9.0\IndentificadordeMaior.genruntimeconfig.cache
+C:\Users\DESKTOP JESUS\Desktop\DO ZERO AO DEV -\Lista-DoZeroAoDevC#\Lista - 8\Exercicio 5\IndentificadordeMaior\obj\Debug\net9.0\ref\IndentificadordeMaior.dll

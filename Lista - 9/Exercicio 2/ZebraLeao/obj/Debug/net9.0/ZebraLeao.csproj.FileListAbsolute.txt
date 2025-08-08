@@ -1,0 +1,14 @@
+C:\Users\DESKTOP JESUS\Desktop\DO ZERO AO DEV -\Lista-DoZeroAoDevC#\Lista 9\Exercicio 2\ZebraLeao\obj\Debug\net9.0\ZebraLeao.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DESKTOP JESUS\Desktop\DO ZERO AO DEV -\Lista-DoZeroAoDevC#\Lista 9\Exercicio 2\ZebraLeao\obj\Debug\net9.0\ZebraLeao.AssemblyInfoInputs.cache
+C:\Users\DESKTOP JESUS\Desktop\DO ZERO AO DEV -\Lista-DoZeroAoDevC#\Lista 9\Exercicio 2\ZebraLeao\obj\Debug\net9.0\ZebraLeao.AssemblyInfo.cs
+C:\Users\DESKTOP JESUS\Desktop\DO ZERO AO DEV -\Lista-DoZeroAoDevC#\Lista 9\Exercicio 2\ZebraLeao\obj\Debug\net9.0\ZebraLeao.csproj.CoreCompileInputs.cache
+C:\Users\DESKTOP JESUS\Desktop\DO ZERO AO DEV -\Lista-DoZeroAoDevC#\Lista 9\Exercicio 2\ZebraLeao\bin\Debug\net9.0\ZebraLeao.exe
+C:\Users\DESKTOP JESUS\Desktop\DO ZERO AO DEV -\Lista-DoZeroAoDevC#\Lista 9\Exercicio 2\ZebraLeao\bin\Debug\net9.0\ZebraLeao.deps.json
+C:\Users\DESKTOP JESUS\Desktop\DO ZERO AO DEV -\Lista-DoZeroAoDevC#\Lista 9\Exercicio 2\ZebraLeao\bin\Debug\net9.0\ZebraLeao.runtimeconfig.json
+C:\Users\DESKTOP JESUS\Desktop\DO ZERO AO DEV -\Lista-DoZeroAoDevC#\Lista 9\Exercicio 2\ZebraLeao\bin\Debug\net9.0\ZebraLeao.dll
+C:\Users\DESKTOP JESUS\Desktop\DO ZERO AO DEV -\Lista-DoZeroAoDevC#\Lista 9\Exercicio 2\ZebraLeao\bin\Debug\net9.0\ZebraLeao.pdb
+C:\Users\DESKTOP JESUS\Desktop\DO ZERO AO DEV -\Lista-DoZeroAoDevC#\Lista 9\Exercicio 2\ZebraLeao\obj\Debug\net9.0\ZebraLeao.dll
+C:\Users\DESKTOP JESUS\Desktop\DO ZERO AO DEV -\Lista-DoZeroAoDevC#\Lista 9\Exercicio 2\ZebraLeao\obj\Debug\net9.0\refint\ZebraLeao.dll
+C:\Users\DESKTOP JESUS\Desktop\DO ZERO AO DEV -\Lista-DoZeroAoDevC#\Lista 9\Exercicio 2\ZebraLeao\obj\Debug\net9.0\ZebraLeao.pdb
+C:\Users\DESKTOP JESUS\Desktop\DO ZERO AO DEV -\Lista-DoZeroAoDevC#\Lista 9\Exercicio 2\ZebraLeao\obj\Debug\net9.0\ZebraLeao.genruntimeconfig.cache
+C:\Users\DESKTOP JESUS\Desktop\DO ZERO AO DEV -\Lista-DoZeroAoDevC#\Lista 9\Exercicio 2\ZebraLeao\obj\Debug\net9.0\ref\ZebraLeao.dll

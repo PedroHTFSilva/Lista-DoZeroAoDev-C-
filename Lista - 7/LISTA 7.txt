@@ -1,0 +1,33 @@
+Lista de Exercício - Linguagem C# - Variáveis e Tipos
+
+
+
+1 - Crie um software que receba 2 números inteiros e realize a subtração entre eles
+
+
+
+2 - Crie um software que receba 4 números representando as notas de um aluno, calcule a media e exiba a média na tela
+
+
+
+3 - Crie um software que receba uma temperatura em Celsius e converta para Fahrenheit - Formula = (ValorEmCelsius * 9/5) + 32
+
+
+
+4 - Crie um software que receba 5 números, calcule a multiplicação entre eles e exiba na tela
+
+
+
+5 - Crie um software que receba a idade, gênero, peso, altura e exiba essas informações na tela
+
+
+
+6 - O que é uma Coleção?
+
+
+
+7 - Qual a diferença entre Console.Write e Console.WriteLine?
+
+
+
+8 - Qual a o tipo de dados retornado pelo Console.ReadLine()?

@@ -1,0 +1,14 @@
+C:\Users\psilva\Desktop\Projetos\DO ZERO AO DEV\Lista 7\Exercicio 2\bin\Debug\net6.0\Exercicio 2.exe
+C:\Users\psilva\Desktop\Projetos\DO ZERO AO DEV\Lista 7\Exercicio 2\bin\Debug\net6.0\Exercicio 2.deps.json
+C:\Users\psilva\Desktop\Projetos\DO ZERO AO DEV\Lista 7\Exercicio 2\bin\Debug\net6.0\Exercicio 2.runtimeconfig.json
+C:\Users\psilva\Desktop\Projetos\DO ZERO AO DEV\Lista 7\Exercicio 2\bin\Debug\net6.0\Exercicio 2.dll
+C:\Users\psilva\Desktop\Projetos\DO ZERO AO DEV\Lista 7\Exercicio 2\bin\Debug\net6.0\Exercicio 2.pdb
+C:\Users\psilva\Desktop\Projetos\DO ZERO AO DEV\Lista 7\Exercicio 2\obj\Debug\net6.0\Exercicio 2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\psilva\Desktop\Projetos\DO ZERO AO DEV\Lista 7\Exercicio 2\obj\Debug\net6.0\Exercicio 2.AssemblyInfoInputs.cache
+C:\Users\psilva\Desktop\Projetos\DO ZERO AO DEV\Lista 7\Exercicio 2\obj\Debug\net6.0\Exercicio 2.AssemblyInfo.cs
+C:\Users\psilva\Desktop\Projetos\DO ZERO AO DEV\Lista 7\Exercicio 2\obj\Debug\net6.0\Exercicio 2.csproj.CoreCompileInputs.cache
+C:\Users\psilva\Desktop\Projetos\DO ZERO AO DEV\Lista 7\Exercicio 2\obj\Debug\net6.0\Exercicio 2.dll
+C:\Users\psilva\Desktop\Projetos\DO ZERO AO DEV\Lista 7\Exercicio 2\obj\Debug\net6.0\refint\Exercicio 2.dll
+C:\Users\psilva\Desktop\Projetos\DO ZERO AO DEV\Lista 7\Exercicio 2\obj\Debug\net6.0\Exercicio 2.pdb
+C:\Users\psilva\Desktop\Projetos\DO ZERO AO DEV\Lista 7\Exercicio 2\obj\Debug\net6.0\Exercicio 2.genruntimeconfig.cache
+C:\Users\psilva\Desktop\Projetos\DO ZERO AO DEV\Lista 7\Exercicio 2\obj\Debug\net6.0\ref\Exercicio 2.dll

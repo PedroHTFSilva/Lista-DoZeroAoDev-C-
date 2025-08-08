@@ -1,0 +1,14 @@
+C:\Users\DESKTOP JESUS\Desktop\DO ZERO AO DEV -\Lista-DoZeroAoDevC#\Lista - 8\Exercicio 6\MediaAluno\bin\Debug\net9.0\MediaAluno.exe
+C:\Users\DESKTOP JESUS\Desktop\DO ZERO AO DEV -\Lista-DoZeroAoDevC#\Lista - 8\Exercicio 6\MediaAluno\bin\Debug\net9.0\MediaAluno.deps.json
+C:\Users\DESKTOP JESUS\Desktop\DO ZERO AO DEV -\Lista-DoZeroAoDevC#\Lista - 8\Exercicio 6\MediaAluno\bin\Debug\net9.0\MediaAluno.runtimeconfig.json
+C:\Users\DESKTOP JESUS\Desktop\DO ZERO AO DEV -\Lista-DoZeroAoDevC#\Lista - 8\Exercicio 6\MediaAluno\bin\Debug\net9.0\MediaAluno.dll
+C:\Users\DESKTOP JESUS\Desktop\DO ZERO AO DEV -\Lista-DoZeroAoDevC#\Lista - 8\Exercicio 6\MediaAluno\bin\Debug\net9.0\MediaAluno.pdb
+C:\Users\DESKTOP JESUS\Desktop\DO ZERO AO DEV -\Lista-DoZeroAoDevC#\Lista - 8\Exercicio 6\MediaAluno\obj\Debug\net9.0\MediaAluno.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DESKTOP JESUS\Desktop\DO ZERO AO DEV -\Lista-DoZeroAoDevC#\Lista - 8\Exercicio 6\MediaAluno\obj\Debug\net9.0\MediaAluno.AssemblyInfoInputs.cache
+C:\Users\DESKTOP JESUS\Desktop\DO ZERO AO DEV -\Lista-DoZeroAoDevC#\Lista - 8\Exercicio 6\MediaAluno\obj\Debug\net9.0\MediaAluno.AssemblyInfo.cs
+C:\Users\DESKTOP JESUS\Desktop\DO ZERO AO DEV -\Lista-DoZeroAoDevC#\Lista - 8\Exercicio 6\MediaAluno\obj\Debug\net9.0\MediaAluno.csproj.CoreCompileInputs.cache
+C:\Users\DESKTOP JESUS\Desktop\DO ZERO AO DEV -\Lista-DoZeroAoDevC#\Lista - 8\Exercicio 6\MediaAluno\obj\Debug\net9.0\MediaAluno.dll
+C:\Users\DESKTOP JESUS\Desktop\DO ZERO AO DEV -\Lista-DoZeroAoDevC#\Lista - 8\Exercicio 6\MediaAluno\obj\Debug\net9.0\refint\MediaAluno.dll
+C:\Users\DESKTOP JESUS\Desktop\DO ZERO AO DEV -\Lista-DoZeroAoDevC#\Lista - 8\Exercicio 6\MediaAluno\obj\Debug\net9.0\MediaAluno.pdb
+C:\Users\DESKTOP JESUS\Desktop\DO ZERO AO DEV -\Lista-DoZeroAoDevC#\Lista - 8\Exercicio 6\MediaAluno\obj\Debug\net9.0\MediaAluno.genruntimeconfig.cache
+C:\Users\DESKTOP JESUS\Desktop\DO ZERO AO DEV -\Lista-DoZeroAoDevC#\Lista - 8\Exercicio 6\MediaAluno\obj\Debug\net9.0\ref\MediaAluno.dll

@@ -1,0 +1,14 @@
+C:\Users\DESKTOP JESUS\Desktop\DO ZERO AO DEV -\Lista-DoZeroAoDevC#\Lista - 8\Exercicio 4\CalculoMedia\bin\Debug\net9.0\CalculoMedia.exe
+C:\Users\DESKTOP JESUS\Desktop\DO ZERO AO DEV -\Lista-DoZeroAoDevC#\Lista - 8\Exercicio 4\CalculoMedia\bin\Debug\net9.0\CalculoMedia.deps.json
+C:\Users\DESKTOP JESUS\Desktop\DO ZERO AO DEV -\Lista-DoZeroAoDevC#\Lista - 8\Exercicio 4\CalculoMedia\bin\Debug\net9.0\CalculoMedia.runtimeconfig.json
+C:\Users\DESKTOP JESUS\Desktop\DO ZERO AO DEV -\Lista-DoZeroAoDevC#\Lista - 8\Exercicio 4\CalculoMedia\bin\Debug\net9.0\CalculoMedia.dll
+C:\Users\DESKTOP JESUS\Desktop\DO ZERO AO DEV -\Lista-DoZeroAoDevC#\Lista - 8\Exercicio 4\CalculoMedia\bin\Debug\net9.0\CalculoMedia.pdb
+C:\Users\DESKTOP JESUS\Desktop\DO ZERO AO DEV -\Lista-DoZeroAoDevC#\Lista - 8\Exercicio 4\CalculoMedia\obj\Debug\net9.0\CalculoMedia.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DESKTOP JESUS\Desktop\DO ZERO AO DEV -\Lista-DoZeroAoDevC#\Lista - 8\Exercicio 4\CalculoMedia\obj\Debug\net9.0\CalculoMedia.AssemblyInfoInputs.cache
+C:\Users\DESKTOP JESUS\Desktop\DO ZERO AO DEV -\Lista-DoZeroAoDevC#\Lista - 8\Exercicio 4\CalculoMedia\obj\Debug\net9.0\CalculoMedia.AssemblyInfo.cs
+C:\Users\DESKTOP JESUS\Desktop\DO ZERO AO DEV -\Lista-DoZeroAoDevC#\Lista - 8\Exercicio 4\CalculoMedia\obj\Debug\net9.0\CalculoMedia.csproj.CoreCompileInputs.cache
+C:\Users\DESKTOP JESUS\Desktop\DO ZERO AO DEV -\Lista-DoZeroAoDevC#\Lista - 8\Exercicio 4\CalculoMedia\obj\Debug\net9.0\CalculoMedia.dll
+C:\Users\DESKTOP JESUS\Desktop\DO ZERO AO DEV -\Lista-DoZeroAoDevC#\Lista - 8\Exercicio 4\CalculoMedia\obj\Debug\net9.0\refint\CalculoMedia.dll
+C:\Users\DESKTOP JESUS\Desktop\DO ZERO AO DEV -\Lista-DoZeroAoDevC#\Lista - 8\Exercicio 4\CalculoMedia\obj\Debug\net9.0\CalculoMedia.pdb
+C:\Users\DESKTOP JESUS\Desktop\DO ZERO AO DEV -\Lista-DoZeroAoDevC#\Lista - 8\Exercicio 4\CalculoMedia\obj\Debug\net9.0\CalculoMedia.genruntimeconfig.cache
+C:\Users\DESKTOP JESUS\Desktop\DO ZERO AO DEV -\Lista-DoZeroAoDevC#\Lista - 8\Exercicio 4\CalculoMedia\obj\Debug\net9.0\ref\CalculoMedia.dll

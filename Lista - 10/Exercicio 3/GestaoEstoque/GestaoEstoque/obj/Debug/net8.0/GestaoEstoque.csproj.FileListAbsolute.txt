@@ -1,0 +1,14 @@
+C:\Users\DESKTOP JESUS\Desktop\DO ZERO AO DEV -\Lista-DoZeroAoDevC#\Lista - 10\Exercicio 3\GestaoEstoque\GestaoEstoque\bin\Debug\net8.0\GestaoEstoque.exe
+C:\Users\DESKTOP JESUS\Desktop\DO ZERO AO DEV -\Lista-DoZeroAoDevC#\Lista - 10\Exercicio 3\GestaoEstoque\GestaoEstoque\bin\Debug\net8.0\GestaoEstoque.deps.json
+C:\Users\DESKTOP JESUS\Desktop\DO ZERO AO DEV -\Lista-DoZeroAoDevC#\Lista - 10\Exercicio 3\GestaoEstoque\GestaoEstoque\bin\Debug\net8.0\GestaoEstoque.runtimeconfig.json
+C:\Users\DESKTOP JESUS\Desktop\DO ZERO AO DEV -\Lista-DoZeroAoDevC#\Lista - 10\Exercicio 3\GestaoEstoque\GestaoEstoque\bin\Debug\net8.0\GestaoEstoque.dll
+C:\Users\DESKTOP JESUS\Desktop\DO ZERO AO DEV -\Lista-DoZeroAoDevC#\Lista - 10\Exercicio 3\GestaoEstoque\GestaoEstoque\bin\Debug\net8.0\GestaoEstoque.pdb
+C:\Users\DESKTOP JESUS\Desktop\DO ZERO AO DEV -\Lista-DoZeroAoDevC#\Lista - 10\Exercicio 3\GestaoEstoque\GestaoEstoque\obj\Debug\net8.0\GestaoEstoque.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DESKTOP JESUS\Desktop\DO ZERO AO DEV -\Lista-DoZeroAoDevC#\Lista - 10\Exercicio 3\GestaoEstoque\GestaoEstoque\obj\Debug\net8.0\GestaoEstoque.AssemblyInfoInputs.cache
+C:\Users\DESKTOP JESUS\Desktop\DO ZERO AO DEV -\Lista-DoZeroAoDevC#\Lista - 10\Exercicio 3\GestaoEstoque\GestaoEstoque\obj\Debug\net8.0\GestaoEstoque.AssemblyInfo.cs
+C:\Users\DESKTOP JESUS\Desktop\DO ZERO AO DEV -\Lista-DoZeroAoDevC#\Lista - 10\Exercicio 3\GestaoEstoque\GestaoEstoque\obj\Debug\net8.0\GestaoEstoque.csproj.CoreCompileInputs.cache
+C:\Users\DESKTOP JESUS\Desktop\DO ZERO AO DEV -\Lista-DoZeroAoDevC#\Lista - 10\Exercicio 3\GestaoEstoque\GestaoEstoque\obj\Debug\net8.0\GestaoEstoque.dll
+C:\Users\DESKTOP JESUS\Desktop\DO ZERO AO DEV -\Lista-DoZeroAoDevC#\Lista - 10\Exercicio 3\GestaoEstoque\GestaoEstoque\obj\Debug\net8.0\refint\GestaoEstoque.dll
+C:\Users\DESKTOP JESUS\Desktop\DO ZERO AO DEV -\Lista-DoZeroAoDevC#\Lista - 10\Exercicio 3\GestaoEstoque\GestaoEstoque\obj\Debug\net8.0\GestaoEstoque.pdb
+C:\Users\DESKTOP JESUS\Desktop\DO ZERO AO DEV -\Lista-DoZeroAoDevC#\Lista - 10\Exercicio 3\GestaoEstoque\GestaoEstoque\obj\Debug\net8.0\GestaoEstoque.genruntimeconfig.cache
+C:\Users\DESKTOP JESUS\Desktop\DO ZERO AO DEV -\Lista-DoZeroAoDevC#\Lista - 10\Exercicio 3\GestaoEstoque\GestaoEstoque\obj\Debug\net8.0\ref\GestaoEstoque.dll

@@ -1,0 +1,14 @@
+C:\Users\DESKTOP JESUS\Desktop\DO ZERO AO DEV -\Lista-DoZeroAoDevC#\Lista 9\Exercicio 3\ClasseMetodo\obj\Debug\net9.0\ClasseMetodo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DESKTOP JESUS\Desktop\DO ZERO AO DEV -\Lista-DoZeroAoDevC#\Lista 9\Exercicio 3\ClasseMetodo\obj\Debug\net9.0\ClasseMetodo.AssemblyInfoInputs.cache
+C:\Users\DESKTOP JESUS\Desktop\DO ZERO AO DEV -\Lista-DoZeroAoDevC#\Lista 9\Exercicio 3\ClasseMetodo\obj\Debug\net9.0\ClasseMetodo.AssemblyInfo.cs
+C:\Users\DESKTOP JESUS\Desktop\DO ZERO AO DEV -\Lista-DoZeroAoDevC#\Lista 9\Exercicio 3\ClasseMetodo\obj\Debug\net9.0\ClasseMetodo.csproj.CoreCompileInputs.cache
+C:\Users\DESKTOP JESUS\Desktop\DO ZERO AO DEV -\Lista-DoZeroAoDevC#\Lista 9\Exercicio 3\ClasseMetodo\bin\Debug\net9.0\ClasseMetodo.exe
+C:\Users\DESKTOP JESUS\Desktop\DO ZERO AO DEV -\Lista-DoZeroAoDevC#\Lista 9\Exercicio 3\ClasseMetodo\bin\Debug\net9.0\ClasseMetodo.deps.json
+C:\Users\DESKTOP JESUS\Desktop\DO ZERO AO DEV -\Lista-DoZeroAoDevC#\Lista 9\Exercicio 3\ClasseMetodo\bin\Debug\net9.0\ClasseMetodo.runtimeconfig.json
+C:\Users\DESKTOP JESUS\Desktop\DO ZERO AO DEV -\Lista-DoZeroAoDevC#\Lista 9\Exercicio 3\ClasseMetodo\bin\Debug\net9.0\ClasseMetodo.dll
+C:\Users\DESKTOP JESUS\Desktop\DO ZERO AO DEV -\Lista-DoZeroAoDevC#\Lista 9\Exercicio 3\ClasseMetodo\bin\Debug\net9.0\ClasseMetodo.pdb
+C:\Users\DESKTOP JESUS\Desktop\DO ZERO AO DEV -\Lista-DoZeroAoDevC#\Lista 9\Exercicio 3\ClasseMetodo\obj\Debug\net9.0\ClasseMetodo.dll
+C:\Users\DESKTOP JESUS\Desktop\DO ZERO AO DEV -\Lista-DoZeroAoDevC#\Lista 9\Exercicio 3\ClasseMetodo\obj\Debug\net9.0\refint\ClasseMetodo.dll
+C:\Users\DESKTOP JESUS\Desktop\DO ZERO AO DEV -\Lista-DoZeroAoDevC#\Lista 9\Exercicio 3\ClasseMetodo\obj\Debug\net9.0\ClasseMetodo.pdb
+C:\Users\DESKTOP JESUS\Desktop\DO ZERO AO DEV -\Lista-DoZeroAoDevC#\Lista 9\Exercicio 3\ClasseMetodo\obj\Debug\net9.0\ClasseMetodo.genruntimeconfig.cache
+C:\Users\DESKTOP JESUS\Desktop\DO ZERO AO DEV -\Lista-DoZeroAoDevC#\Lista 9\Exercicio 3\ClasseMetodo\obj\Debug\net9.0\ref\ClasseMetodo.dll

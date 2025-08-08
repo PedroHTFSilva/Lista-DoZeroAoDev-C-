@@ -1,0 +1,24 @@
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.2.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MacacoBanana", "MacacoBanana\MacacoBanana.csproj", "{7AF7B3A3-FD90-D99E-E962-6F76058CF030}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7AF7B3A3-FD90-D99E-E962-6F76058CF030}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7AF7B3A3-FD90-D99E-E962-6F76058CF030}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7AF7B3A3-FD90-D99E-E962-6F76058CF030}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7AF7B3A3-FD90-D99E-E962-6F76058CF030}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C42FB490-E173-40A3-BC17-93DF8DF47BAF}
+	EndGlobalSection
+EndGlobal
