@@ -23,11 +23,13 @@ Lista de Exercício - Linguagem C# - Variáveis e Tipos
 
 
 6 - O que é uma Coleção?
-
+A coleção é uma estrutura de dados que permitem armazenar e manipular um grupo de itens como uma única unidade.
 
 
 7 - Qual a diferença entre Console.Write e Console.WriteLine?
-
+O Console.Write > Imprime o texto fornecido e mantem o cursor na mesma linha.
+O Console.WriteLine > Imprime o texto fornecido e quebra a linha.
 
 
 8 - Qual a o tipo de dados retornado pelo Console.ReadLine()?
+O Console.ReadLine > Retorna string como tipo de dados.
